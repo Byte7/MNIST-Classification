@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+
+.idea/workspace.xml
+.idea/dictionaries/mnist.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/modules.xml
+
+# original_dataset
+scikit_learn_data
